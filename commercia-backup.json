@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "a36fbf99-89c9-412f-924b-1a6dba558673",
+      "name": "camisa",
+      "category": "roupa",
+      "price": 25,
+      "qty": 0
+    }
+  ],
+  "sales": [
+    {
+      "id": "f638c007-1943-4d2d-95f7-7e6b981e8151",
+      "date": "22/11/2026",
+      "client": "geraldao",
+      "items": 6,
+      "total": 150
+    },
+    {
+      "id": "e56a4918-6900-454e-9012-5a731c0c29ff",
+      "date": "22/11/2026",
+      "client": "Cliente balcão",
+      "items": 2,
+      "total": 50
+    }
+  ],
+  "employees": []
+}
